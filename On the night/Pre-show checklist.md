@@ -1,0 +1,18 @@
+Before the show we should make sure:
+- There is a status light on all of the emergency exit lights
+- Make sure the T-loop is switched on - This is as the back of the hall near the cupboard.
+	- you should be able to confirm this is working by turning up the monitor and listening of sound from the stage
+- Test each of the lights needed for the night. 
+- make sure the stage manager and someone in the booth have a walkie each and make sure they function
+- test the speakers are working
+	- pick a song and play out of each of the dedicated channels used for the night
+		- Front of stage
+		- Back of stage
+		- Front of House 
+		- Hall
+- Turn off the hall lights and turn on the overhead lights
+	- The hall lights should be turned on in the hall
+	- Then turned off from inside the booth using the blue and yellow switch
+	- Turn on the distribution board at the very bottom right (this is upsidown)
+	- make sure the lights lights themselves are turned on (directly beneath the distribution board)
+	- The dimmer should now control the lights
