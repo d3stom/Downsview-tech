@@ -1,6 +1,6 @@
 Our lighting is controlled through the [Eurolight LC2412](Eurolight%20LC2412.md)
 
-This is a combined [DMX](DMX) (digital) and analogue board.
+This is a combined [DMX](DMX.md) (digital) and analogue board.
 
 **we currently have the below lights**
 The Par can light (general wash lights)
