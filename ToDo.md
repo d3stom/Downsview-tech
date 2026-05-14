@@ -20,3 +20,4 @@ The Sound and light to do list
  - training at least 3 people
  - replace the mic line
  - clean out hall speakers
+ - remove old power cables running from booth to stage
