@@ -6,7 +6,7 @@ The Sound and light to do list
  - fix the fusebox - we need 16 amp rcbo type A, need to look at trip curve.
    
 **Things that need to be done eventually**
- - New LED lights for on the bar
+ - New LED lights for on the bar - Current frontrunner https://cpc.farnell.com/elumen8/mp-75-rgbw/fresnel-lantern-75w-rgbw-led-black/dp/DP34961
  - Decide on new lights for the stage
  - fix the CCTV
  - install a raspberry pi
