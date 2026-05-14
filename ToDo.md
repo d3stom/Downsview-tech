@@ -2,7 +2,7 @@ The Sound and light to do list
 
 **Things that need to be done before the next show**
  - Rewire the stage
- - Replace the audio mixer
+ - Replace the audio mixer - Current fruntrunner https://www.gear4music.com/PA-DJ-and-Lighting/Soundcraft-EPM6-Analog-Mixer/700?_gl=1*1u40j0m*_up*MQ..*_ga*NDY3NjE4ODM0LjE3Nzg3ODAzMTc.*_ga_0WF1R5QW3K*czE3Nzg3ODAzMTYkbzEkZzEkdDE3Nzg3ODAzMjQkajUyJGwwJGgxMTAxOTI4NjY1 
  - look at better audio splitter
  - fix the fusebox - we need 16 amp rcbo type A, need to look at trip curve.
    
